@@ -1,15 +1,30 @@
-<h1 align="center">Hi 👋, I'm Radek</h1>
-<h3 align="center">A Student Front-end Web Developer</h3>
+<!-- Header -->
+<h1 align="center">👋 Hi there! I'm Radek!</h1>
+<p align="center">Welcome to my GitHub profile! 🌟</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=radook&label=Profile%20views&color=0e75b6&style=flat" alt="radook" /> </p>
+<!-- Introduction -->
+<p align="center">I'm a passionate student diving into the world of front-end web development. Currently mastering HTML, CSS, and JavaScript while exploring the wonderful world of React.</p>
 
-- 🔭 I’m currently working on **Bank landing Tailwind Page**
+<!-- Skills -->
+<h2 align="center">🛠️ Skills</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React">
+</p>
 
-- 🌱 I’m currently learning **Frameworks, API's**
+<!-- Learning -->
+<h2 align="center">🌱 Currently Learning</h2>
+<p align="center">Deepening my understanding of React and exploring advanced CSS techniques with Tailwind CSS and Sass.</p>
 
-- 📫 How to reach me **radekhendriksz@gmail.com**
+<!-- Connect -->
+<h2 align="center">🤝 Let's Connect!</h2>
+<p align="center">I'm excited to connect with fellow developers! Let's learn and grow together!</p>
+<p align="center">You can find me on <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a> and <a href="https://twitter.com/yourhandle">Twitter</a>.</p>
 
-- ⚡ Fun fact **I'm also a digital artist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
