@@ -23,7 +23,7 @@
 <!-- Connect -->
 <h2 align="center">🤝 Let's Connect!</h2>
 <p align="center">I'm excited to connect with fellow developers! Let's learn and grow together!</p>
-<p align="center">You can find me on <a href="[https://www.linkedin.com/in/yourprofile](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)">LinkedIn</a>
+<p align="center">You can find me on <a href="www.linkedin.com/in/radek-hendriksz-88b257241">LinkedIn</a>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=radook&show_icons=true&locale=en&layout=compact" alt="radook" /></p>
