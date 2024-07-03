@@ -31,5 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=radook&show_icons=true&locale=en" alt="radook" /></p>
 
 
-##Link to resume
+<h1 align="center">Link to resume<h1></h1>
 [Google Docs Link]([https://your-link-here.com](https://docs.google.com/document/d/1ERyhXrLVmtnF89jHD5-WYX4TS7st-Lcouu4uQeKQzNk/edit?usp=sharing)
