@@ -27,5 +27,3 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=radook&show_icons=true&locale=en&layout=compact" alt="radook" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=radook&show_icons=true&locale=en" alt="radook" /></p>
